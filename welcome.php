@@ -99,6 +99,7 @@ if (isset($_POST["finder-btn"])) {
               <a href="profile.php">Profiel</a>
               <a href="logout.php">Uitloggen</a>
               <!-- Move the "Berichten" button outside the account dropdown -->
+              <!-- added + revamped notification box center !-->
             </div>
           </div>
           <li><a href="contact-page.php">Contact</a></li>
